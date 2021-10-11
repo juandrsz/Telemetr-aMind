@@ -1,0 +1,2 @@
+# Telemetr-aMind
+Aplicación telemetría
